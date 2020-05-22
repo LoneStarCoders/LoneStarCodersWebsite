@@ -1,1 +1,1 @@
-# LoneStarCodersWebsiteByCevo
+# https://lonestarcoders.github.io/LoneStarCodersWebsite/
